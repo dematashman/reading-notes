@@ -1,18 +1,14 @@
-# read 
-
-## GROWTH MIDNEST in my opinion
-________
-* growth midnest : the human being is able to changes, grow,
-and adapt to rhe events and circumstances he faces.
-
-the human is the only one capable of determining acceptance of new ideas and events in a persons life, and it is what enables you to lives as a normal, companion, and happier person.
 
 
-________
+# readme 
+___
 
-### how to keep my self in growth mindest ?
+##### iam dema tashman iam from jordan lives in irbid, i graduatedfrom yarmouk universityin 2019, i studied accounting.
 
-* learn a new things.
-* thinking postive.
-* understand what happend around you clearly.
-* improve talent you have and work on it.
+
+[growth](https://github.com/dematashman/readme1.0/blob/main/growth.md)
+
+[git](https://github.com/dematashman/readme1.0/blob/main/git.md)
+
+[github](https://github.com/dematashman/readme1.0/blob/main/github.md)
+
