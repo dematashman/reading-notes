@@ -1,6 +1,6 @@
 # read it 
 
-## GROWTH MIDNEST
+## GROWTH MIDNEST in my opinion
 ________
 * growth midnest : the human being is able to changes, grow,
 and adapt to rhe events and circumstances he faces.
