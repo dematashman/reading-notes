@@ -7,6 +7,6 @@ in gethub you dont need to learn a type of language to build your web.
 in easy steps you can build your web by create acount and do a repostory then upload a wep, and you can change and modify easiely then build.
 
 ##### then we can easy :
-* it easy to express the ideas.
-* change and modify easily.
-* work with team.
+1. it easy to express the ideas.
+2. change and modify easily.
+3. work with team.
