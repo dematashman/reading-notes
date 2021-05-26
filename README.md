@@ -1,4 +1,4 @@
-# read it 
+# read 
 
 ## GROWTH MIDNEST in my opinion
 ________
