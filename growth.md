@@ -1,5 +1,9 @@
 # read it 
 
+
+## iam dema tashman iam from jordan lives in irbid, i graduated from yarmouk universityin 2019, i studied accounting.
+[github account](https://github.com/dematashman)
+
 ## GROWTH MIDNEST in my opinion
 ________
 * growth midnest : the human being is able to changes, grow,
