@@ -20,6 +20,6 @@ ___
 
 3. [read05](https://dematashman.github.io/reading-notes/read05)
 
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+4. [read06]()
 
 
